@@ -26,7 +26,5 @@ public class SelectedEx01 {
 
         for (int v : arr)
             System.out.print(v + " ");
-
-
     }
 }
