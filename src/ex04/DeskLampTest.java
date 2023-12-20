@@ -5,8 +5,8 @@ public class DeskLampTest {
         DeskLamp myLamp = new DeskLamp();
 
         myLamp.turnOn();
-        System.out.println(myLamp.toString());
+        System.out.println(myLamp); // toString 문법
         myLamp.turnOff();
-        System.out.println(myLamp.toString());
+        System.out.println(myLamp);
     }
 }
