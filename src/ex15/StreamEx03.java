@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 // 버퍼 만들기
-public class StringEx03 {
+public class StreamEx03 {
     public static void main(String[] args) {
         InputStreamReader ir = new InputStreamReader(System.in); // 타겟만 바꾸면됨 ()
         BufferedReader br = new BufferedReader(ir);
